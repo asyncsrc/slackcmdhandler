@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;slackcmdhandler&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/gocode/src/9fans.net" />
+      <root url="file://$USER_HOME$/gocode/src/ogma" />
+      <root url="file://$USER_HOME$/gocode/src/hello" />
+      <root url="file://$USER_HOME$/gocode/src/golang.org" />
+      <root url="file://$USER_HOME$/gocode/src/github.com" />
+      <root url="file://$USER_HOME$/gocode/src/fb_heart_sum" />
+      <root url="file://$USER_HOME$/gocode/src/.idea" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/gocode/src/9fans.net" />
+      <root url="file://$USER_HOME$/gocode/src/ogma" />
+      <root url="file://$USER_HOME$/gocode/src/hello" />
+      <root url="file://$USER_HOME$/gocode/src/golang.org" />
+      <root url="file://$USER_HOME$/gocode/src/github.com" />
+      <root url="file://$USER_HOME$/gocode/src/fb_heart_sum" />
+      <root url="file://$USER_HOME$/gocode/src/.idea" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
